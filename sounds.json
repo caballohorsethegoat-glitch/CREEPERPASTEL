@@ -1,0 +1,7 @@
+{
+  "cake_splat": {
+    "sounds": [
+      { "name": "creeperpastel:cake_splat", "stream": false }
+    ]
+  }
+}
